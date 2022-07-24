@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-**charisma102998/charisma102998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full Stack developer with over 8 years of experience in Web development, Blockchain and Mobile App field.
+My main strengths are making realistic promises, being responsive and accountable, and focused on business needs and communication.
+I am available to work full-time and work asap to reach client goals and I ensure the highest quality of product and 100% satisfaction through my work.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+<img align="right" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400" height="256" />
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+- 🔭 I’m currently working on ...
+Web Devlopment
+- Web Basics: HTML5, CSS3, JavaScript, jQuery, Prototype
+- JavaScript Full Stack : TypeScript, Angular.js, React.js, Node.js, Express
+- CMS : Wordpress, Drupal, Joomla, Typo3
+- e-Commerce : WooCommerce, Shopify, Magento, Drupal Commerce, OpenCart, Prestashop
+- PHP Full Stack : Laravel, CodeIgniter, CakePHP,
+- GraphQL, MongoDB, MySQL, PostgreSQL, MSSQL
+- Google Analytics, Google Tag Manager, Search Engine Optimization, Page Speed Optimization
+- Flutter, Dart, Xamarin, Ionic, React Native, Objective-C, Swift, SwiftUI, Kotlin
