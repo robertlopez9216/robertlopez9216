@@ -31,5 +31,4 @@ I am available to work full-time and work asap to reach client goals and I ensur
 - Android & iOS
 - React Native, Flutter, Dart, Java, Kotlin
 #### 💬 How to reach me
-- Email: davydovviktor010@gmail.com
 - Skype: live:.cid.175b803fbeb187a0
