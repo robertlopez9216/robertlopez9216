@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<h1 align="center">Hi there 👋</h1>
 
 I am a Full Stack developer with over 8 years of experience in Web development, Blockchain and Mobile App field.
 My main strengths are making realistic promises, being responsive and accountable, and focused on business needs and communication.
