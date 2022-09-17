@@ -4,7 +4,15 @@ I am a Full Stack developer with over 8 years of experience in Web development, 
 My main strengths are making realistic promises, being responsive and accountable, and focused on business needs and communication.
 I am available to work full-time and work asap to reach client goals and I ensure the highest quality of product and 100% satisfaction through my work.
 
-<img align="right" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400" height="256" />
+<h2 align="center">🤝 Intouch with me </h2>
+<div align="center">
+    <a href="mailto:topcoder728@gmail.com">
+        <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="40">
+    </a>
+    <a href="https://join.skype.com/invite/HiriR44NBKm0">
+        <img src='https://img.icons8.com/color/344/skype.png' height="40">
+    </a>
+</div>
 
 #### ⚡ Web Development
 - Web Basics: HTML5, CSS3, JavaScript, jQuery, Prototype
