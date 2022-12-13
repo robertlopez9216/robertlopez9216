@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋</h1>
 
-I am a full-stack engineer with several years of experience in Web development and Blockchain field. I specializes in Javascript and Typescript its frameworks and libraries providing creative, sophisticated, effective, yet clean solutions using React.js, Next.js, Vue.js, Nuxt.js, AngularJS. I am also proficient in backend frameworks with Node.js, Nest.js, Django, Ruby on Rails, .NET,  Laravel, GraphQL, NoSQL/SQL databases with an in-depth knowledge of the best practices for modern Web applications and blockchain dApps. A talented, innovative and energetic engineer with awesome communication, analytical, collaborating, mentoring, problem solving and troubleshooting skills and also be always seeking cutting-edge blockchain technology with Smart Contract, Solidity, Rust, Solana, Web3.JS, NFT (ERC721, ERC1155), Mint, Stake, Swap, Bot and so on. Passionate to meet user requirements expediently and accurately. I am a natural problem solver, who has proven himself by successfully completing lots of projects for IT consultancies, software houses, web development agencies, and IT departments.
+I am a full-stack engineer with several years of experience in Web development. I specializes in Javascript and Typescript its frameworks and libraries providing creative, sophisticated, effective, yet clean solutions using React.js, Next.js, Vue.js, Nuxt.js, AngularJS. I am also proficient in backend frameworks with Node.js, Nest.js, Django, Ruby on Rails, .NET,  Laravel, GraphQL, NoSQL/SQL databases with an in-depth knowledge of the best practices for modern Web applications. A talented, innovative and energetic engineer with awesome communication, analytical, collaborating, mentoring, problem solving and troubleshooting skills. Passionate to meet user requirements expediently and accurately. I am a natural problem solver, who has proven himself by successfully completing lots of projects for IT consultancies, software houses, web development agencies, and IT departments.
 
 <h2 align="center">🤝 Intouch with me </h2>
 <div align="center">
-    <a href="mailto:giantdragon1029@gmail.com">
+    <a href="mailto:robertjones102945@gmail.com">
         <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="40">
     </a>
     <a href="https://join.skype.com/invite/IxXj1xXVvmfe">
