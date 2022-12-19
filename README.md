@@ -7,7 +7,7 @@ I am a full-stack engineer with several years of experience in Web development. 
     <a href="mailto:robertj9216@gmail.com">
         <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="40">
     </a>
-    <a href="https://join.skype.com/invite/IxXj1xXVvmfe">
+    <a href="https://join.skype.com/invite/CgziU55vm4vX">
         <img src='https://img.icons8.com/color/344/skype.png' height="40">
     </a>
 </div>
